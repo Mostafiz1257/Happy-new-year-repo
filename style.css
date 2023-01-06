@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+}
+/* first-bannar-section */
+
+.first-bannar{
+    display: flex;
+    /* text-align: right; */
+    align-items: center;
+    
+    background-image: url("banner1.png");
+    width: 100%;
+    height: 100vh;
+}
+.bannar-herading{
+    
+    border: 0px ;
+    /* margin-right: 120px; */
+    
+    /* margin-bottom: 50px; */
+    font-size: 40px;
+}
+.bannar-description{
+border: 0px;
+/* margin-right: 120px; */
+font-size:20px
+
+}
+
+.bannar-btn{
+    
+ /* margin-top: 40px; */
+ margin-right: 120px;
+height: 40px;
+width: 100px;
+background-color: rgb(226, 16, 16);
+border: 0px solid;
+color: white;
+border-radius: 5px;
+font-weight: bold;
+}
+
+/* SECOND-SECTION */
+.section-myself{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    
+}
+.failur-title{
+font-size: 30px;
+font-weight: bold;
+margin-bottom: 30px;
+margin-left: 80px;
+}
+.failur-descrip {
+    margin-left: 80px;
+font-size: 20px;
+margin-bottom: 30px;
+color: rgb(136, 128, 118);
+}
+.line-1{
+    margin-left: 80px;
+    font-size: 20px;
+color:  rgb(136, 128, 118);
+padding: 5px;
+}
