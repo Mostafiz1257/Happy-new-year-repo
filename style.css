@@ -89,4 +89,43 @@ padding: 5px;
     border: 0px solid;
     align-items: center;
     text-align: center;
+}  
+/* call me section */
+.call-sec-dep{
+    font-weight: bold;
+    color: white;
+
+}
+
+.call-me{
+    color: white;
+    margin-top: 20px;
+    height: 35px;
+    width: 80px;
+    border-radius: 05px;
+    border-color:  rgb(216, 50, 50);
+    font-weight: bold;
+    background-color: rgb(216, 50, 50);
+}
+.call-item-box{
+    align-items: center;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-top: 70px;
+    border: 0px solid ;
+    border-radius: 10px;
+    height: 150px;
+    width: 700px;
+    /* background-image: url("watch.png"); */
+    background: linear-gradient(
+    to bottom,
+    rgba(0,0,0, 0),
+    rgba(0,0,0, 100)
+  ),url(watch.png);
+
+   
+   
+}
+.call-me-main-box{
+  margin-left: 310px;
 }
