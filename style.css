@@ -40,6 +40,7 @@ border-radius: 5px;
 font-weight: bold;
 }
 
+
 /* SECOND-SECTION */
 .section-myself{
     margin-top: 100px;
@@ -66,6 +67,7 @@ color:  rgb(136, 128, 118);
 padding: 5px;
 }
 
+
 /* My plan section */
 .main-plan{
    margin: 60px 0px;
@@ -90,7 +92,9 @@ padding: 5px;
     align-items: center;
     text-align: center;
 }  
+
 /* call me section */
+
 .call-sec-dep{
     font-weight: bold;
     color: white;
@@ -122,10 +126,46 @@ padding: 5px;
     rgba(0,0,0, 0),
     rgba(0,0,0, 100)
   ),url(watch.png);
-
-   
-   
+ 
 }
 .call-me-main-box{
   margin-left: 310px;
 }
+
+/* My extra section */
+.extra-section{
+    
+    margin: 0px 150px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.extra-single-box{
+    border: 1px solid #888888 ;
+    border-radius: 5px;
+    width: 220px;
+    height: 280px;
+    padding: 1p0x;
+    box-shadow: 5px 5px  #888888;
+    
+    padding: 5px;
+  
+}
+
+.ext-sec-heading{
+    font-size: 25px;
+    text-align: center;
+margin-top: 50px;
+}
+.ext-sec-descrip{
+    color: rgb(136, 128, 118);
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-top: 15px;
+    padding: 5px;
+    text-align: center;
+    text-align: left;
+}
+
