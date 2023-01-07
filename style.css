@@ -1,5 +1,6 @@
 *{
     margin: 0px;
+    font-family: 'Open Sans', sans-serif;
 }
 /* first-bannar-section */
 .first-section{
@@ -8,19 +9,13 @@
 }
 
 .first-bannar{
-    /* display: flex; */
-    /* text-align: right; */
-    /* align-items: center; */
-   
     background-image: url("banner1.png");
     width: 100%;
     height: 100vh;
 }
 .bannar-herading{
     padding-top: 250px;
-    /* align-items: center; */
-    /* border: 0px ; */
-    /* margin-right: 120px; */
+    
     padding-right: 150px;
     /* margin-bottom: 50px; */
     font-size: 40px;
@@ -169,6 +164,7 @@ padding: 5px;
 margin-top: 50px;
 }
 .ext-sec-descrip{
+    
     color: rgb(136, 128, 118);
     font-weight: bold;
     margin-left: 10px;
@@ -180,6 +176,7 @@ margin-top: 50px;
     text-align: left;
 }
 .foter-section{
+    
     display: flex;
     text-align: left;
     gap: 50px;
@@ -189,6 +186,7 @@ margin-top: 50px;
 }
 
 .foter-part{
+   
     max-width: 50%;
     color: white;
     padding: 10px 60px;
