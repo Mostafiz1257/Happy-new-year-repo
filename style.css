@@ -2,37 +2,48 @@
     margin: 0px;
 }
 /* first-bannar-section */
+.first-section{
+    text-align: right;
+
+}
 
 .first-bannar{
-    display: flex;
+    /* display: flex; */
     /* text-align: right; */
-    align-items: center;
-    
+    /* align-items: center; */
+   
     background-image: url("banner1.png");
     width: 100%;
     height: 100vh;
 }
 .bannar-herading{
-    
-    border: 0px ;
+    padding-top: 250px;
+    /* align-items: center; */
+    /* border: 0px ; */
     /* margin-right: 120px; */
-    
+    padding-right: 150px;
     /* margin-bottom: 50px; */
     font-size: 40px;
 }
 .bannar-description{
-border: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+/* border: 0px; */
 /* margin-right: 120px; */
-font-size:20px
+font-size:20px;
+padding-right: 150px;
 
 }
-
-.bannar-btn{
-    
+.btn{
+    padding-right: 150px;
+}
+.bannar-bttn{
+   /* align-items: center;  */
+   /* padding-right: 150px; */
  /* margin-top: 40px; */
- margin-right: 120px;
+ /* margin-right: 120px; */
 height: 40px;
-width: 100px;
+width: auto;
 background-color: rgb(226, 16, 16);
 border: 0px solid;
 color: white;
